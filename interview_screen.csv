@@ -1,0 +1,11 @@
+name,experience,age,qualification,languages
+Sam,3,23,bachelors,"python,java,c#"
+Kane,4,21,bachelors,"html,java"
+Jane,5,22,bachelors,"html,python,java"
+Pale,5,45,masters,"java,python,c++"
+John,6,53,masters,"c++,c#"
+Anne,7,33,masters,"java,c++"
+Anny,5,45,phd,"html,php"
+Danny,8,25,masters,"php,python"
+Kelly,4,45,bachelors,java
+Sammie,3,20,masters,"python,java"
